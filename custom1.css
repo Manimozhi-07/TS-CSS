@@ -1,0 +1,6 @@
+.bk-powered-footer{
+    display:none !important;
+}
+.answer-actions-container-module__titleDescriptionSpacer flex-layout-module__vertical spacing-a{
+    flex-flow: row !important;
+}
