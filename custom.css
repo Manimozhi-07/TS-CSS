@@ -1,3 +1,6 @@
-.bk-ts-powered-footer-logo{
+.bk-powered-footer{
+    display:none !important;
+}
+.flex-layout-module__vertical{
     display:none !important;
 }
